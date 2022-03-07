@@ -1,10 +1,10 @@
-import BeQuick from "../../views/BeQuick";
+import Home from "../../views/Home";
 
 export const exampleRouter = [
     {
         path: '/',
         name: 'Home',
-        component: BeQuick
+        component: Home
     },
 ]
 
